@@ -1,0 +1,4 @@
+1. Refactor code
+2. Write introduction, descriptions for code cells, conclusion, and references from Kaggle and users
+3. Enhance NB model
+4. Use other models
